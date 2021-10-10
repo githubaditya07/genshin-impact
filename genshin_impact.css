@@ -1,12 +1,9 @@
 #xiangling{
-    size: 50px 50px;
+    size: 50px;
 }
 
 #diluc{
-    size: 50px 50px;
-}
-img{
-    border-image:3cm dotted red;
+    size: 50px;
 }
 
 h1{
