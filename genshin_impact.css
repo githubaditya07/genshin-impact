@@ -6,7 +6,7 @@
     size: 50px 50px;
 }
 img{
-    size: 100px 100px;
+    border-image:3cm dotted red;
 }
 
 h1{
