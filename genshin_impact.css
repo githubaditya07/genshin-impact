@@ -1,11 +1,6 @@
-#xiangling{
-    size-adjust:20px;
+div{
+    size: 10px;
 }
-
-#diluc{
-    size: 50px;
-}
-
 h1{
     color: aqua;
 }
