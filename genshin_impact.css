@@ -1,7 +1,14 @@
 #xiangling{
-    size: 50px;
+    size: 50px 50px;
 }
 
 #diluc{
-    size: 50px;
+    size: 50px 50px;
+}
+img{
+
+}
+
+h1{
+    color: aqua;
 }
